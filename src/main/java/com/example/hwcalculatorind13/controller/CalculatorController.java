@@ -1,5 +1,6 @@
-package com.example.hwcalculatorind13;
+package com.example.hwcalculatorind13.controller;
 
+import com.example.hwcalculatorind13.service.CalculatorService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
